@@ -76,7 +76,7 @@ Titular Erika Del Pozo</p>
       <div className="flex justify-center mb-10">
         <a
           target="_blank"
-          href="https://docs.google.com/forms/d/e/1FAIpQLSfcvziBVfLFkWRr_4Ik8w2AyGO6yXfvB-QwlmBNmaAn9cKYtw/viewform"
+          href="https://forms.gle/BSgrzB2mmKyhnkSw6"
           class="px-4 py-1 text-sm text-white montserrat-400 rounded-full drop-shadow-md bg-indigo-200 border-indigo-200 hover:text-indigo-200 hover:bg-gray-50 hover:border-transparent focus:outline-none focus:ring-2 focus:ring-indigo-200 focus:ring-offset-2 mb-5"
         >
           CONFIRMAR ASISTENCIA
