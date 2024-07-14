@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Luxurious+Script&display=swap');
+
+.mainLanding{
+    background-image: url("./images/header.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    .pinyon-script-regular {
+  font-family: "Pinyon Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+}
+
+.bodyLanding{
+     background-image:  url("../src/images/lilac.png");
+    background-repeat:repeat-y ;
+    background-size: cover
+}
+
+
+.pinyon-script-regular {
+    font-family: "Pinyon Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+  .montserrat-400{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .montserrat-600{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+  }
