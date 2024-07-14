@@ -35,7 +35,7 @@ Titular Erika Del Pozo</p>
   return (
     <div className="flex flex-col place-content-center bodyLanding">
       <div className="flex justify-center">
-        <img src={box} alt="box" className="h-max w-max mb-5 mt-5" />
+        <img src={box} alt="box" className="w-screen mb-5 mt-5" />
       </div>
       <div className="flex justify-center place-content-center mb-5">
         <img src={regalo} alt="regalo" className="h-10" />
