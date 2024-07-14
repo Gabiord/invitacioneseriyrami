@@ -5,11 +5,11 @@ import { Button } from "@material-tailwind/react";
 function Body2() {
   return (
     <div className="flex flex-col bodyLanding place-content-center">
-      <h1 className="text-center pinyon-script-regular text-4xl text-indigo-200 drop-shadow-sm mt-5">
-        Codigo de Vestimenta
+      <h1 className="text-center pinyon-script-regular text-5xl text-indigo-200 drop-shadow-sm mt-5">
+        Código de Vestimenta
       </h1>
-      <p className="text-center montserrat-400 mb-2 text-xs ml-5 mr-5 mt-4">
-        Vestimenta Formal, mujeres vestido largo y hombre traje formal
+      <p className="text-center montserrat-400 mb-2 text-sm ml-5 mr-5 mt-4">
+        Vestimenta Formal
       </p>
       <div className="flex justify-center place-content-center mt-8">
         <img src={calendar} alt="calendar" className="h-16 w-16" />
@@ -18,7 +18,7 @@ function Body2() {
       <h1 className="text-center pinyon-script-regular text-4xl text-indigo-200 drop-shadow-sm">
         Agenda la fecha
       </h1>
-      <p className="text-center montserrat-400  mt-5 mb-2 text-xs">
+      <p className="text-center montserrat-400  mt-5 mb-2 text-sm">
         Haciendo click en el siguiente enlace agrega la fecha a tu calendario
       </p>
       <div className="flex justify-center mt-3">

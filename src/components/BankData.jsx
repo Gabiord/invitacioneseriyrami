@@ -45,7 +45,7 @@ Titular Erika Del Pozo</p>
       <h1 className="text-center pinyon-script-regular text-4xl text-indigo-200 drop-shadow-sm mt">
         Regalos
       </h1>
-      <p className="text-center montserrat-400 m-5 text-xs">
+      <p className="text-center montserrat-400 m-5 text-sm">
         Su presencia es nuestro mejor regalo, pero si quieren tener un detalle
         con nosotros pueden sumar kilómetros a nuestra luna de miel...
       </p>
@@ -70,7 +70,7 @@ Titular Erika Del Pozo</p>
       <h1 className="text-center pinyon-script-regular text-4xl text-indigo-200 drop-shadow-sm">
         Confirma tu asistencia
       </h1>
-      <p className="text-center montserrat-400 mt-5 mb-5 text-xs">
+      <p className="text-center montserrat-400 mt-5 mb-5 text-sm">
       Por favor confirmar asistencia antes del 8 de agosto.
       </p>
       <div className="flex justify-center mb-10">

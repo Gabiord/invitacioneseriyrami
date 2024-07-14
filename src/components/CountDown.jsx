@@ -33,7 +33,7 @@ function CountDown() {
     <div className="flex text-zinc-50 place-content-around bodyLanding">
       <div className="flex flex-col w-11/12 h-5/6 mt-10 place-content-center drop-shadow-md bg-indigo-100">
       <p className="text-center montserrat-400 text-4xl text-white drop-shadow-sm mt-10">Viernes, 4 de octubre de 2024</p>
-      <p className="text-center montserrat-400 text-indigo-400 text-sm m-7">Nos llena de alegría compartir nuestro amor con ustedes. Los invitamos a celebrar juntos el día mas especial de nuestras vidas.</p>
+      <p className="text-center montserrat-400 text-indigo-400 text-sm m-7">Nos llena de alegría compartir nuestro amor con ustedes. Los invitamos a celebrar juntos el día más especial de nuestras vidas.</p>
       <div className="grid grid-cols-2 gap-4 m-8 -mt-2 place-content-center place-items-center p-3">
         <div className="flex flex-col text-center bg-blue-gray-50 drop-shadow-md w-20 h-20 place-content-center ">
           <p className="montserrat-600  text-gray-900">{countdown.days}</p>
