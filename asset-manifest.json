@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/invitacioneseriyrami/static/css/main.a0e6263d.css",
-    "main.js": "/invitacioneseriyrami/static/js/main.3cf3e6fd.js",
+    "main.js": "/invitacioneseriyrami/static/js/main.fa4ffcdd.js",
     "static/media/header.png": "/invitacioneseriyrami/static/media/header.8607f1f1eaa39a566ac1.png",
     "static/media/lilac.png": "/invitacioneseriyrami/static/media/lilac.e652972a38e927f7a170.png",
     "static/media/footerimage.jpg": "/invitacioneseriyrami/static/media/footerimage.27324e600ae20cd91b20.jpg",
@@ -12,10 +12,10 @@
     "static/media/tarjeta-de-regalo.png": "/invitacioneseriyrami/static/media/tarjeta-de-regalo.ed2c52f0f7c8ec68b80f.png",
     "index.html": "/invitacioneseriyrami/index.html",
     "main.a0e6263d.css.map": "/invitacioneseriyrami/static/css/main.a0e6263d.css.map",
-    "main.3cf3e6fd.js.map": "/invitacioneseriyrami/static/js/main.3cf3e6fd.js.map"
+    "main.fa4ffcdd.js.map": "/invitacioneseriyrami/static/js/main.fa4ffcdd.js.map"
   },
   "entrypoints": [
     "static/css/main.a0e6263d.css",
-    "static/js/main.3cf3e6fd.js"
+    "static/js/main.fa4ffcdd.js"
   ]
 }
