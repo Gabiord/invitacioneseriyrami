@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/invitacioneseriyrami/static/css/main.a0e6263d.css",
+    "main.js": "/invitacioneseriyrami/static/js/main.5c5fd6a2.js",
+    "static/media/header.png": "/invitacioneseriyrami/static/media/header.8607f1f1eaa39a566ac1.png",
+    "static/media/lilac.png": "/invitacioneseriyrami/static/media/lilac.e652972a38e927f7a170.png",
+    "static/media/footerimage.jpg": "/invitacioneseriyrami/static/media/footerimage.27324e600ae20cd91b20.jpg",
+    "static/media/imagepruebaj.jpg": "/invitacioneseriyrami/static/media/imagepruebaj.79b454a19318a35fe59f.jpg",
+    "static/media/florDe.png": "/invitacioneseriyrami/static/media/florDe.29341fedb5a14cdef3db.png",
+    "static/media/florIz.png": "/invitacioneseriyrami/static/media/florIz.8def4782408d5d5d5bd9.png",
+    "static/media/time-and-calendar.png": "/invitacioneseriyrami/static/media/time-and-calendar.685f17607daa083ca51e.png",
+    "static/media/tarjeta-de-regalo.png": "/invitacioneseriyrami/static/media/tarjeta-de-regalo.ed2c52f0f7c8ec68b80f.png",
+    "index.html": "/invitacioneseriyrami/index.html",
+    "main.a0e6263d.css.map": "/invitacioneseriyrami/static/css/main.a0e6263d.css.map",
+    "main.5c5fd6a2.js.map": "/invitacioneseriyrami/static/js/main.5c5fd6a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0e6263d.css",
+    "static/js/main.5c5fd6a2.js"
+  ]
+}
