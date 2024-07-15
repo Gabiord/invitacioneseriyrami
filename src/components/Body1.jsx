@@ -7,7 +7,7 @@ function Body1() {
   return (
     <div className="flex flex-col bodyLanding place-content-center">
       <div className="flex justify-center place-content-center mt-10">
-        <img src={florDe} alt="flor deco" className="h-24" />
+        <img src={florDe} alt="flor deco" className="h-24 mb-5" />
       </div>
 
       <h1 className="text-center pinyon-script-regular text-4xl text-indigo-200 drop-shadow-sm">Ceremonia religiosa</h1>
@@ -26,7 +26,7 @@ function Body1() {
       </div>
 
       <div className="flex justify-center place-content-center">
-        <img src={florIz} alt="flor deco" className="h-24" />
+        <img src={florIz} alt="flor deco" className="h-24 m-5" />
       </div>
 
       <h1 className="text-center pinyon-script-regular text-4xl text-indigo-200 drop-shadow-sm">Recepción</h1>
@@ -47,7 +47,7 @@ function Body1() {
       <div className="flex justify-center">
 
             <div className="flex justify-center place-content-center">
-        <img src={florDe} alt="flor deco" className="h-24" />
+        <img src={florDe} alt="flor deco" className="h-24 m-5" />
       </div>
       </div>
     </div>

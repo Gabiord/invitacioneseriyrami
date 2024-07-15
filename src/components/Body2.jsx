@@ -13,10 +13,10 @@ function Body2() {
         Vestimenta Formal
       </p>
       <div className="flex justify-center place-content-center">
-        <img src={florIz} alt="flor deco" className="h-24" />
+        <img src={florIz} alt="flor deco" className="h-24 m-5" />
       </div>
 
-      <div className="flex justify-center place-content-center mt-8">
+      <div className="flex justify-center place-content-center mt-2">
         <img src={calendar} alt="calendar" className="h-16 w-16" />
       </div>
 
