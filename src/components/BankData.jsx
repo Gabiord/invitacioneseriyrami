@@ -59,19 +59,15 @@ Titular Erika Del Pozo</p>
         </button>
       </div>
 
-
-
       <div className="flex justify-center place-content-center mt-5 mb-5">
         <img src={florDe} alt="flor deco" className="h-24" />
       </div>
-      {/* <div className="flex justify-center place-content-center mb-5">
-        <img src={confirmar} alt="Confirmar Asistencia" className="h-16" />
-      </div> */}
+
       <h1 className="text-center pinyon-script-regular text-4xl text-indigo-200 drop-shadow-sm">
         Confirma tu asistencia
       </h1>
-      <p className="text-center montserrat-400 mt-5 mb-5 text-sm">
-      Por favor confirmar asistencia antes del 8 de agosto.
+      <p className="text-center montserrat-400 m-5 text-sm">
+      Por favor confirmar asistencia antes del 20 de agosto.
       </p>
       <div className="flex justify-center mb-10">
         <a

@@ -12,7 +12,7 @@ function Body1() {
 
       <h1 className="text-center pinyon-script-regular text-4xl text-indigo-200 drop-shadow-sm">Ceremonia religiosa</h1>
       <p className="text-center montserrat-400 text-indigo-400 m-2 text-lg">20 . 30  HS</p>
-      <p className="text-center montserrat-400  mb-2 text-sm">
+      <p className="text-center montserrat-400 mb-2 text-sm">
       Parroquia Sagrada Familia, Capilla Jackson
       </p>
       <div className="flex justify-center mt-3">
@@ -29,7 +29,7 @@ function Body1() {
         <img src={florIz} alt="flor deco" className="h-24" />
       </div>
 
-      <h1 className="text-center pinyon-script-regular text-4xl text-indigo-200 drop-shadow-sm mt-5">Recepción</h1>
+      <h1 className="text-center pinyon-script-regular text-4xl text-indigo-200 drop-shadow-sm">Recepción</h1>
       <p className="text-center montserrat-400 text-indigo-400 m-2 text-lg">22 . 00  HS</p>
       <p className="text-center montserrat-400  mb-2 text-sm">
       Hotel del Prado. Av. Gabriela Mistral 4223
@@ -46,7 +46,7 @@ function Body1() {
 
       <div className="flex justify-center">
 
-            <div className="flex justify-center place-content-center mt-5">
+            <div className="flex justify-center place-content-center">
         <img src={florDe} alt="flor deco" className="h-24" />
       </div>
       </div>
