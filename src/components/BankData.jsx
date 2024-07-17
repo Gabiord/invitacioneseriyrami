@@ -68,7 +68,7 @@ Titular Erika Del Pozo</p>
       </h1>
       <p className="text-center montserrat-400 m-5 text-sm">
       ¡Esperamos que puedan unirse a nosotros para esta noche de celebración y diversión solo para adultos! </p>
-      <p className="text-center montserrat-400 mb-5 text-sm">
+      <p className="text-center montserrat-400 mb-5 ml-5 mr-5 text-sm">
       Por favor confirmar asistencia antes del 20 de agosto. 
       </p>
       <div className="flex justify-center mb-10">
