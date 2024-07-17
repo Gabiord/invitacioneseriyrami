@@ -67,7 +67,9 @@ Titular Erika Del Pozo</p>
         Confirma tu asistencia
       </h1>
       <p className="text-center montserrat-400 m-5 text-sm">
-      Por favor confirmar asistencia antes del 20 de agosto.
+      ¡Esperamos que puedan unirse a nosotros para esta noche de celebración y diversión solo para adultos! </p>
+      <p className="text-center montserrat-400 mb-5 text-sm">
+      Por favor confirmar asistencia antes del 20 de agosto. 
       </p>
       <div className="flex justify-center mb-10">
         <a
